@@ -7,4 +7,5 @@ Running the application:
 Install all packages via npm/bower
 Plug in your android device and make sure developer mode is set to on
 Select Android under the debug options, and select Device as the debug outlet (your phone)
-Click on Device to build and launch the app.
+Run buildAdndServe in the Task Runner Explorer (each time to build and serve new changes)
+Click on Device to build and launch the app on your device.
