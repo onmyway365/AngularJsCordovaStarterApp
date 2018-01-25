@@ -12,7 +12,7 @@
         const vm = this;
 
         //TODO: Substitue this with your own openweathermap.org API key.
-        const apiKey = '80fe230108de347833eb7e052b4b5eaf';
+        const apiKey = '99joifdkwf94rii2pocmirmi285982980';
 
         vm.$init = $init();
 
